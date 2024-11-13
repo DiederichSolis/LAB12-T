@@ -18,3 +18,10 @@ def ordenar_diccionarios_por_key(input_file, output_file, key):
         for item in data_sorted:
             file.write(json.dumps(item) + '\n')
 
+# Parámetros
+input_file = 'data.txt'         # Archivo de entrada
+output_file = 'sorted_output.txt'  # Archivo de salida
+key = 'model'                     # Clave por la cual ordenar
+
+# Llamada a la función
+ordenar_diccionarios_por_key(input_file, output_file, key)
