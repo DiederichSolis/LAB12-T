@@ -1,0 +1,4 @@
+{"make": "Apple", "model": 2, "color": "Silver"}
+{"make": "Samsung", "model": 7, "color": "Blue"}
+{"make": "Huawei", "model": 50, "color": "Gold"}
+{"make": "Nokia", "model": 216, "color": "Black"}
